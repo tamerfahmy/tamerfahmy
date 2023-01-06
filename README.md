@@ -1,4 +1,5 @@
-# Tamer Fahmy
+# Tamer Fahmy [![Linkedin: tfahmy](https://img.shields.io/badge/-tfahmy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tfahmy/)](https://www.linkedin.com/in/tfahmy/)
+
 
 Hi there 👋
 
